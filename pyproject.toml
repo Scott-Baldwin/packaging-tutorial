@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "example-package-scott-baldwin"
-version = "0.1.0"
+version = "0.1.1"
 description = "packaging tutorial"
 authors = ["Scott-Baldwin <superscottyb@gmail.com>"]
 license = "MIT"
